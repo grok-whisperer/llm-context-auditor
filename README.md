@@ -1,4 +1,4 @@
-# LLM Context Auditor - This is the missing guardrail for anyone who does serious long-context work.
+# LLM Context Auditor - The missing guardrail for anyone who does serious long-context work.
 
 **Open Product Spec** — April 2026
 

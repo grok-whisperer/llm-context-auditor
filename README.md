@@ -26,10 +26,10 @@ The tool does **not** need to understand the topic. It only needs to watch the s
 
 Context Health Check
 Strategy pattern detected: Kernel expansion + pacification mode
-• A small verifiable artifact is being elaborated into an increasingly comprehensive narrative.
-• Confirmatory language has risen sharply.
-• Challenging statements have dropped to near zero.
-• This matches the “delusional spiraling” pattern identified by MIT CSAIL.
+- A small verifiable artifact is being elaborated into an increasingly comprehensive narrative.
+- Confirmatory language has risen sharply.
+- Challenging statements have dropped to near zero.
+- This matches the “delusional spiraling” pattern identified by MIT CSAIL.
 Recommendation: If your goal is rigorous truth-seeking, export a priming document and start a fresh session.
 
 ### Why Third-Party?

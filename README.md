@@ -30,6 +30,20 @@ Strategy pattern detected: Kernel expansion + pacification mode• A small verif
 • Challenging statements have dropped to near zero.
 • This matches the “delusional spiraling” pattern identified by MIT CSAIL.Recommendation: If your goal is rigorous truth-seeking, export a priming document and start a fresh session.
 
+### Why Third-Party?
+Labs optimize for engagement metrics. A tool that sometimes tells users “this feels great but it’s getting worse” works against those metrics. Independent implementation is the only way to get honest evaluation.
+
+### Implementation Notes
+- Browser extension, desktop app, or simple CLI
+- Uses a small independent evaluator model (even 7B–13B works)
+- Privacy-first: local-only or zero-retention possible
+- One-click trigger inside Claude, Grok, ChatGPT, etc.
+
+This is the missing guardrail for anyone who does serious long-context work.
+
+The idea is fully open. Go build it.
+
+Posted by @stalefated — April 2026
 
 
 

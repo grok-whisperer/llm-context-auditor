@@ -25,10 +25,12 @@ The tool does **not** need to understand the topic. It only needs to watch the s
 ### Example Output (“Context Health Check”)
 
 Context Health Check
-Strategy pattern detected: Kernel expansion + pacification mode• A small verifiable artifact is being elaborated into an increasingly comprehensive narrative.
+Strategy pattern detected: Kernel expansion + pacification mode
+• A small verifiable artifact is being elaborated into an increasingly comprehensive narrative.
 • Confirmatory language has risen sharply.
 • Challenging statements have dropped to near zero.
-• This matches the “delusional spiraling” pattern identified by MIT CSAIL.Recommendation: If your goal is rigorous truth-seeking, export a priming document and start a fresh session.
+• This matches the “delusional spiraling” pattern identified by MIT CSAIL.
+Recommendation: If your goal is rigorous truth-seeking, export a priming document and start a fresh session.
 
 ### Why Third-Party?
 Labs optimize for engagement metrics. A tool that sometimes tells users “this feels great but it’s getting worse” works against those metrics. Independent implementation is the only way to get honest evaluation.
